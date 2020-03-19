@@ -1,6 +1,6 @@
 # creative_project_3
 
-Requirements
+<h1> Requirements </h1>
 This is a creative project, so you are welcome to build what you would like. The basic requirements are:
 
 The site uses Vue and the Vue CLI
